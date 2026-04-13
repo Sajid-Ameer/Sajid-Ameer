@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Sajid
 
-<!--
-**Sajid-Ameer/Sajid-Ameer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Machine Learning & Data Science Learner  
+💻 Python | Pandas | Scikit-Learn  
+📊 Building real-world ML projects  
 
-Here are some ideas to get you started:
+## 🔥 Skills
+- Python
+- Data Analysis
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- House Price Prediction
+- Spam Detection Model
+- Student Marks Predictor
+
+## 📫 Contact
+- Email: sajidameer2004@gmail.cpm
